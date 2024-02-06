@@ -60,4 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenZeppelin
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to us at [your-email@example.com](mailto:guptayash1501@gmail.com).
+If you have any questions or suggestions, feel free to reach out to us at [guptayash1501@gmail.com](mailto:guptayash1501@gmail.com).
