@@ -55,9 +55,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 - Foundry Framework
 - Ethereum
-- Web3.js
-- React
-- OpenZeppelin
+- ether.js
+- javascript
+- chainlink
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out to us at [guptayash1501@gmail.com](mailto:guptayash1501@gmail.com).
